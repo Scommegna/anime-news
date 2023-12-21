@@ -45,4 +45,4 @@ This project is licensed under the MIT License. See the [LICENSE](http://opensou
 
 ---
 
-Made with love by Lucas Scommegna :wave: [Get in touch](https://www.linkedin.com/in/lucas-scommegna-8429b6239/)
+Made with love by Lucas Scommegna :wave: [Get in touch](https://www.linkedin.com/in/lucas-scommegna/)
